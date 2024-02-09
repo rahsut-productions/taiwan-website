@@ -1,0 +1,72 @@
+body {
+  background-color: lightcyan;
+  font-family: sans-serif;
+  color: darkblue;
+
+}
+
+
+h1 {
+  color: palevioletred;
+  text-align: center;
+  text-decoration: underline;
+  font-family: sans-serif;
+
+}
+
+div {
+  width: 649px;
+  text-align: center;
+}
+
+img {
+  border-color: darkblue;
+  border-radius: 10px;
+  border-width: 4px;
+  border-style: solid;
+  margin-right: 10px;
+  width: 300px;
+  height: 200px;
+}
+
+p {
+  margin-bottom: 0px;
+  color: inherit;
+  text-align: center;
+}
+
+h4 {
+  color: darkgreen;
+  font-style: italic;
+  margin: inherit;
+
+}
+
+
+.navigationBar {
+  float: left;
+  text-align: left;
+  color: blue;
+  margin: 5px;
+}
+
+.floatRight {
+  float: right;
+  text-align: right;
+  margin: 5px;
+
+}
+
+.text-align-left {
+  text-align: left;
+  margin: inherit;
+  color: inherit;
+
+}
+
+.floatLeft {
+  float: left;
+  text-align: left;
+  margin: 5px;
+
+}
